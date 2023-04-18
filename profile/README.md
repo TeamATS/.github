@@ -3,16 +3,13 @@
 ## 概要
 TeamATSに関係するプログラム等の管理に活用することを目的としたチームページです
 
+### Overview
+現在のページ。概要だったり、何かの説明をまとめて表示させる予定
+
+### Repositories
+各プログラムを管理しているページ
+
+### Projects
+各プロジェクトのタスク管理ができるページ。カンバン方式が基本。
 
 
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
