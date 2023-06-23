@@ -3,7 +3,7 @@
 ## 概要
 TeamATSに関係するプログラム等の管理に活用することを目的としたチームページです
 
-![image](https://github.com/TeamATS/.github/assets/93647368/f79ed821-cc22-4756-ab52-ba8e282c9fd3)
+![image](https://github.com/TeamATS/.github/assets/93647368/bc517376-7fb8-4f45-902d-53d8e3b7683d)
 
 ### Overview
 現在のページ。概要だったり、何かの説明をまとめて表示させる予定
