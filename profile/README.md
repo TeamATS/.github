@@ -3,17 +3,22 @@
 ## 概要
 TeamATSに関係するプログラム等の管理に活用することを目的としたチームページです
 
-- Overview  
+![image](https://github.com/TeamATS/.github/assets/93647368/f79ed821-cc22-4756-ab52-ba8e282c9fd3)
+
+### Overview
 現在のページ。概要だったり、何かの説明をまとめて表示させる予定
 
-- Repositories  
+### Repositories
 各プログラムを管理しているページ
+- .github
+  プログラムではなくチームの情報管理を行っている、特殊なリポジトリです  
+  ここで表示している内容の編集や、チームWikiの編集は、.githubリポジトリから行ってください
 
-- Projects  
+### Projects  
 各プロジェクトのタスク管理ができるページ  
 カンバン方式が基本
 
-- People  
+### People  
 チームのメンバー確認、編集を行うページ
 
 
