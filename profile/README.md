@@ -21,5 +21,5 @@ TeamATSに関係するプログラム等の管理に活用することを目的�
 ### People  
 チームのメンバー確認、編集を行うページ
 
-### テスト
-https://teamats.atlassian.net/wiki/spaces/~712020bca079fce1e54c3e974a32791ba8a99c/overview
+### Confluence
+[TeamATS](https://teamats.atlassian.net/wiki/spaces/~712020bca079fce1e54c3e974a32791ba8a99c/overview)
